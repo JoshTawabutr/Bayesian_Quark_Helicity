@@ -1,4 +1,4 @@
-# Bayesian_Quark_Helicity
+# Asymptotics of Quark Helicity at small-x: The Bayesian Approach
 
 This project is created by Josh Tawabutr as part of Physics 8820: <i>Learning from data: Bayesian methods and (some) machine learning</i> at the Ohio State University in autumn semester 2021. 
 
